@@ -1,1 +1,26 @@
 .DS_Store
+xcuserdata/
+
+
+
+# Build/çıktı dosyaları
+build/
+DerivedData/
+
+# Xcode proje dosyaları
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+
+# Kullanıcı özelleştirmeleri
+.idea/
+.vscode/
+*.swiftpm
+
+# Paket yönetimi bağımlılık dosyaları
+Package.resolved
+Carthage/
+
+# Gizli dosyalar
+.DS_Store
+.gitignore
